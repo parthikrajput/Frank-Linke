@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Sarabun';
+    src: url('Sarabun-Bold.woff2') format('woff2'),
+        url('Sarabun-Bold.woff') format('woff'),
+        url('Sarabun-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url('Sarabun-ExtraBold.woff2') format('woff2'),
+        url('Sarabun-ExtraBold.woff') format('woff'),
+        url('Sarabun-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kurale';
+    src: url('Kurale-Regular.woff2') format('woff2'),
+        url('Kurale-Regular.woff') format('woff'),
+        url('Kurale-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url('Sarabun-Regular.woff2') format('woff2'),
+        url('Sarabun-Regular.woff') format('woff'),
+        url('Sarabun-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url('Sarabun-SemiBold.woff2') format('woff2'),
+        url('Sarabun-SemiBold.woff') format('woff'),
+        url('Sarabun-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url('Sarabun-Thin.woff2') format('woff2'),
+        url('Sarabun-Thin.woff') format('woff'),
+        url('Sarabun-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url('Sarabun-Light.woff2') format('woff2'),
+        url('Sarabun-Light.woff') format('woff'),
+        url('Sarabun-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url('Sarabun-Italic.woff2') format('woff2'),
+        url('Sarabun-Italic.woff') format('woff'),
+        url('Sarabun-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url('Sarabun-ExtraLight.woff2') format('woff2'),
+        url('Sarabun-ExtraLight.woff') format('woff'),
+        url('Sarabun-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src: url('Sarabun-Medium.woff2') format('woff2'),
+        url('Sarabun-Medium.woff') format('woff'),
+        url('Sarabun-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
